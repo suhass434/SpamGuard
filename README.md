@@ -30,8 +30,3 @@ This project implements a spam detection tool using a Multinomial Naive Bayes (M
 3. **Input**: Enter the message you want to classify in the input field.
 
 4. **Output**: The model will return whether the message is "Spam" or "Not Spam".
-
-## Live Demo
-
-You can try the live version of the spam detector [here]( https://spamdetectorx.streamlit.app )
-.
